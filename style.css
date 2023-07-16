@@ -1,0 +1,37 @@
+main{
+    margin: auto;
+    height: 100%;
+    width: 50%;
+    text-align: center;
+    background: linear-gradient(#40128B,#9336B4, #DD58D6, #FFE79B) ;
+    border: 10px solid black;
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.is-visible{
+    margin-left: 18%;
+    background-color: black;
+    border: solid 5px white;
+    height: 10%;
+    width: 65%;
+}
+
+button{
+    margin-top: 30px;
+    width: 150px;
+    height: 60px;
+}
+
+#yes{
+    top:100px;
+    left: 100px;
+}
+
+#no{
+    top: 100px;
+    left: 200px;
+}
